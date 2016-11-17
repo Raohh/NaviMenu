@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/raohaohao/android/NaviMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/raohaohao/android/NaviMenu/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_1f8651fecf105122996ded07c0375787f8d5c338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raohaohao/android/NaviMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/raohaohao/android/NaviMenu/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_6924aa55a161d0f34d6436721deda3f1035d60af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raohaohao/android/NaviMenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/raohaohao/android/NaviMenu/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_a51c7466c8223a64c731aa3b4610e6e6660259de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raohaohao/android/NaviMenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/raohaohao/android/NaviMenu/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_d0b828340f78f1a5085544f3d5da2b27235e8cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raohaohao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/raohaohao/android/NaviMenu/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4094aa702d666cab89c5616fd4ccfc75264fbe23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raohaohao/android/NaviMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/raohaohao/android/NaviMenu/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_bf78c89a17e3fa7ad8d5c7fe5e9be46ea1a276c4.jar" />
+    </item>
+
+</items>
